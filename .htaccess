@@ -1,0 +1,3 @@
+CosignProtected On
+AuthType CoSign
+Require Group A
